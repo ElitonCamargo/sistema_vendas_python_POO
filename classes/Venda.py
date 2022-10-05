@@ -21,4 +21,3 @@ class Venda:
     def getValorVenda(self):
         self.valor = self.produto.valor * self.quantidade
         return self.valor
-    

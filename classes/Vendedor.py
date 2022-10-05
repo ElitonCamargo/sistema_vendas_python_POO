@@ -27,5 +27,3 @@ class Vendedor:
         else:
             return True
         return False
-        
-
